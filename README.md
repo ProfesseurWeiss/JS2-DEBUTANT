@@ -7,7 +7,7 @@ Javascript - débutant
 Sommaire
 --------
 
-[Chap 1 - Variables](01-Variables.mdd)
+[Chap 1 - Variables](01-Variables.md)
 
 [Chap 2 - Types et valeurs](02-TypesValeurs.md)
 
