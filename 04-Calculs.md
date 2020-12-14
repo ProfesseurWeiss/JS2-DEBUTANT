@@ -1,5 +1,5 @@
-CALCUL, OPERATEUR et INCREMENTATION
-===================================
+Chap 4 - CALCUL, OPERATEUR et INCREMENTATION
+============================================
 
 ![JavascriptLogo](images/Logo-JS_150px.png)
 ![Niveau1Logo](images/Logo-N2_150px.png)

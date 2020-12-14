@@ -1,5 +1,5 @@
-Les boucles
-===========
+Chap 7 - BOUCLES
+================
 
 ![JavascriptLogo](images/Logo-JS_150px.png)
 ![Niveau1Logo](images/Logo-N2_150px.png)

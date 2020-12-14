@@ -1,5 +1,5 @@
-Les fonctions
-=============
+Chap 6 - FONCTIONS
+==================
 
 ![JavascriptLogo](images/Logo-JS_150px.png)
 ![Niveau1Logo](images/Logo-N2_150px.png)

@@ -1,5 +1,5 @@
-Interface Homme Machine (IHM)
-=============================
+Chap 3 - Interface Homme Machine (IHM)
+======================================
 
 ![JavascriptLogo](images/Logo-JS_150px.png)
 ![Niveau1Logo](images/Logo-N2_150px.png)
