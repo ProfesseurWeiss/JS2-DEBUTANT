@@ -4,11 +4,11 @@ Chap 3 - Interface Homme Machine (IHM)
 ![JavascriptLogo](images/Logo-JS_150px.png)
 ![Niveau1Logo](images/Logo-N2_150px.png)
 
-Saisie et affichage à l'écran
------------------------------
-
 Maintenant que nous savons utiliser des variables, nous pouvons écrire
 des programmes qui échangent des informations avec l'utilisateur.
+
+Les boites de dialogue
+----------------------
 
 ``` js
 const prenom = prompt("Entrez votre prénom :");
