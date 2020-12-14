@@ -1,16 +1,22 @@
-Javascript - découverte
-=======================
+Javascript - débutant
+=====================
 
 ![JavascriptLogo](images/Logo-JS_150px.png)
-![Niveau1Logo](images/Logo-N1_150px.png)
+![Niveau1Logo](images/Logo-N2_150px.png)
 
 Sommaire
 --------
 
-[Chap 1 - Références](01-References.md)
+[Chap 1 - Variables](01-Variables.mdd)
 
-[Chap 2 - Historique](02-Historique.md)
+[Chap 2 - Types et valeurs](02-TypesValeurs.md)
 
-[Chap 3 - Environnement de programmation](03-EnvironnementProg.md)
+[Chap 3 - IHM](03-IHM.md)
 
-[Chap 4 - Programme informatique](04-ProgInfo.md)
+[Chap 4 - Calculs](04-Calculs.md)
+
+[Chap 5 - Conditions](05-Conditions.md)
+
+[Chap 6 - Fonctions](06-Fonctions.md)
+
+[Chap 7 - Boucles](07-Boucles.md)
